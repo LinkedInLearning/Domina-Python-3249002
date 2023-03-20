@@ -1,12 +1,14 @@
-# Nombre final del curso
+# Domina Python
 
-Este es el repositorio del curso de LinkedIn Learning `[nombre del curso]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `[Domina Python]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
 
 DESCRIPCIÓN DEL CURSO
+
+Comprende la programación con Python. Aprende cómo escribir código eficiente y descubre los fundamentos de este lenguaje. En este curso tendrás la oportunidad de adquirir conocimientos y habilidades importantes para todo programador o programadora, explorar las herramientas y las principales características de Python y obtener trucos para realizar tareas de desarrollo de forma más eficaz. Aprende hoy mismo cómo solucionar problemas comunes desarrollando, crear aplicaciones más robustas y empieza tu propio proyecto.
 
 ## Instrucciones
 
