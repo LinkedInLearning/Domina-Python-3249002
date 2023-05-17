@@ -10,6 +10,8 @@ DESCRIPCIÓN DEL CURSO
 
 Comprende la programación con Python. Aprende cómo escribir código eficiente y descubre los fundamentos de este lenguaje. En este curso tendrás la oportunidad de adquirir conocimientos y habilidades importantes para todo programador o programadora, explorar las herramientas y las principales características de Python y obtener trucos para realizar tareas de desarrollo de forma más eficaz. Aprende hoy mismo cómo solucionar problemas comunes desarrollando, crear aplicaciones más robustas y empieza tu propio proyecto.
 
+Este curso está integrado con GitHub Codespaces, un entorno de desarrollo instantáneo alojado en la nube que ofrece toda la funcionalidad de tu IDE favorito sin tener que configurar una máquina local. Con Codespaces puedes practicar en cualquier lugar y desde cualquier dispositivo, de modo que no necesitas instalar ninguna otra herramienta. Aprende a dar los primeros pasos con el vídeo “Cómo usar GitHub Codespaces con este curso”
+
 ## Instrucciones
 
 Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. Puedes usar el menú emergente de la rama en GitHub para cambiar a una rama específica y echar un vistazo al curso en esa etapa, o puedes añadir `/tree/nombre_de_la_rama` a la URL para ir a la rama a la que quieres acceder.
