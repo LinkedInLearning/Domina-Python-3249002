@@ -2,11 +2,9 @@
 
 Este es el repositorio del curso de LinkedIn Learning `[Domina Python]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
-![Nombre completo del curso][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
+![image](https://github.com/LinkedInLearning/Domina-Python-3249002/assets/71371373/97433076-219b-4077-9f83-3aa22fa0496e)
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
-
-DESCRIPCIÓN DEL CURSO
 
 Comprende la programación con Python. Aprende cómo escribir código eficiente y descubre los fundamentos de este lenguaje. En este curso tendrás la oportunidad de adquirir conocimientos y habilidades importantes para todo programador o programadora, explorar las herramientas y las principales características de Python y obtener trucos para realizar tareas de desarrollo de forma más eficaz. Aprende hoy mismo cómo solucionar problemas comunes desarrollando, crear aplicaciones más robustas y empieza tu propio proyecto.
 
@@ -20,14 +18,6 @@ Este repositorio tiene ramas (branches) para cada uno de los vídeos del curso. 
 
 Las ramas están estructuradas para corresponder a los vídeos del curso. La convención de nomenclatura es Capítulo#_Vídeo#. Por ejemplo, la rama denominada `02_03` corresponde al segundo capítulo y al tercer vídeo de ese capítulo. Algunas ramas tendrán un estado inicial y otro final. Están marcadas con las letras i («inicio») y f («fin»). La branch i tiene el mismo código que al principio del vídeo. La branch f tiene el mismo código que al final del vídeo. La rama master tiene el estado final del código que aparece en el curso.
 
-## Instalación
-
-1. Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
-   - [software]
-
-2. Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
-3. [Instrucciones específicas del curso].
-
 ### Docente
 
 **Ana María Pinto**
@@ -35,6 +25,6 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/ana-maria-pinto).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
+[lil-course-url]: https://www.linkedin.com/learning/domina-python/dominando-python
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
 
