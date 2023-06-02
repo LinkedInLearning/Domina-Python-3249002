@@ -1,6 +1,6 @@
 # Domina Python
 
-Este es el repositorio del curso de LinkedIn Learning `[Domina Python]`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `Domina Python`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![image](https://github.com/LinkedInLearning/Domina-Python-3249002/assets/71371373/97433076-219b-4077-9f83-3aa22fa0496e)
 
